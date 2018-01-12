@@ -8,7 +8,7 @@ function happyHolidaysTo(Ociel) {
 }
 
 function happyHolidaysTo(holiday, name) {
-  return `Happy ${holiday}, ${name}!`
+  return `Happy ${Mothers day}, ${Teresa}!`
 }
 
 function holidayCountdown(holiday, name) {
