@@ -4,7 +4,7 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(Ociel) {
-  return `Happy holidays, ${Ociel}!`
+  return `Happy holidays, ${Ociel}!`;
 }
 
 function happyHolidaysTo(holiday, name) {
@@ -12,5 +12,5 @@ function happyHolidaysTo(holiday, name) {
 }
 
 function holidayCountdown(holiday, name) {
-  return `It\'s ${number} days until ${holiday}!`
+  return `It's ${number} days until ${holiday}!`
 }
